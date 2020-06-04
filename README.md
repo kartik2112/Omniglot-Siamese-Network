@@ -18,4 +18,5 @@ The dataset [Kaggle Dataset | Omniglot](https://www.kaggle.com/watesoyan/omniglo
 
 ## Links
 
-* [Kaggle Kernel | Kartik Shenoy | Omniglot Dataset Siamese Networks]https://www.kaggle.com/kartik2112/omniglot-dataset-siamese-networks
+* [Kaggle Kernel | Kartik Shenoy | Omniglot Dataset Siamese Networks](https://www.kaggle.com/kartik2112/omniglot-dataset-siamese-networks)
+* [Google Collab Notebook Link](https://colab.research.google.com/drive/1adB1bed-fpD_kfynO75ZqEzpPpmD8DkA?usp=sharing)
